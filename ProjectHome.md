@@ -1,0 +1,1 @@
+This is a demo for remove watermark string in user32.dll.mui.
